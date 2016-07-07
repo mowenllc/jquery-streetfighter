@@ -54,7 +54,7 @@ div.ryu{
   float: left;
   position: absolute;
   z-index: 10;
-  margin-top: 160px;
-  margin-left: 600px;
+  top: 160px;
+  left: 600px;
 }
 
